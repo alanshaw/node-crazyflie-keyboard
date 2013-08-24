@@ -1,0 +1,21 @@
+{
+  "name": "node-crazyflie-keyboard",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alanshaw/node-crazyflie-keyboard.git"
+  },
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/node-crazyflie-keyboard/issues"
+  },
+  "dependencies": {
+    "aerogel": "~0.0.4"
+  }
+}
